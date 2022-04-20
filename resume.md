@@ -1,5 +1,3 @@
- [![](https://img.shields.io/badge/tabithaomelay-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tabithaomelay/) &nbsp; [![](https://img.shields.io/badge/tabby__katz-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tabby__katz) &nbsp; [![](https://img.shields.io/badge/tabby_katz-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tabby_katz/)
-
 # Tabitha O'Melay
 
 510-926-8161  
