@@ -1,13 +1,13 @@
- [![](https://img.shields.io/badge/tabithaomelay-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tabithaomelay/) &nbsp; [![](https://img.shields.io/badge/tabby__katz-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tabby__katz) &nbsp; [![](https://img.shields.io/badge/tabby_katz-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tabby_katz/)
+ [![](https://img.shields.io/badge/tabithaomelay-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tabithaomelay/) &nbsp;[![](https://img.shields.io/badge/tabby_katz-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tabby_katz/)
 
 # Tabitha O'Melay
 
 510-926-8161  
-<mailto:tomelay@gmail.com>  
+<mailto:tabby_katz@icloud.com>  
 web: <https://www.tabbykatz.com>  
 github: <https://github.com/tabbykatz>  
 linkedin: <https://www.linkedin.com/in/tabithaomelay/>  
-Berkeley, CA
+Portland, OR
 
 ## What I'm Looking For
 
@@ -23,16 +23,21 @@ Berkeley, CA
 
 - Proficient: git, Bash, C, Python, JavaScript, SQL, HTML
 - Current focus: Ruby, Rails, React, PostgreSQL, CSS
+- Curious: Kotlin
 - Familiar: Docker, Flask, NGINX, Puppet, Next.js, Rspec, Datadog
 - Not afraid of: Learning new languages or technologies
 
 ## Experiences
 
 ### Upstart, Remote (Jan 2022-Current)
+Upstart is a machine learning driven fintech enabling effortless credit based on true risk. I belong to a backend engineering team working in Ruby on Rails and Python to assist ML in making instant credit decisions.
+
+Software Engineer III
+
+- Currently working on 3rd Party vendor integrations to increase instant approval and prevent fraud
+- Watch this space!
 
 Software Engineer (Intern)
-
-Upstart is a machine learning focused fintech enabling effortless credit based on true risk. I belong to a backend engineering team working in Ruby on Rails and Python to assist ML in making instant credit decisions.
 
 - Maintain ownership of and built full-stack internal tooling to monitor and respond to fraud
 - Work with stakeholders to develop database schema, permissions, Redis caching, and user interface
