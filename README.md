@@ -1,4 +1,4 @@
- [![](https://img.shields.io/badge/tabithaomelay-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tabithaomelay/) &nbsp;[![](https://img.shields.io/badge/tabby_katz-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tabby_katz/)
+ [![](https://img.shields.io/badge/tabithaomelay-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tabithaomelay/)
 
 # Tabitha O'Melay
 
@@ -6,42 +6,51 @@
 <mailto:tabby_katz@icloud.com>  
 web: <https://www.tabbykatz.com>  
 github: <https://github.com/tabbykatz>  
-linkedin: <https://www.linkedin.com/in/tabithaomelay/>  
+linkedin: <https://www.linkedin.com/in/tabbykatz/>  
 Portland, OR
 
 ## What I'm Looking For
 
-- A team that not only values, but embraces diversity in culture, experiences, and ideas
-- A healthy company culture of mentorship with a robust feedback framework
+- Seeking a dynamic team that fosters diversity in culture, experiences, and ideas.
+- Driven by a passion for mentorship and a robust feedback culture, aiming to contribute to a healthy and supportive company environment.
 
 ## What I Can Bring
 
-- I'll ramp up fast, seek out mentorship and opportunities, give and accept feedback in order to grow, and be a valued member of your team in no time. I love working with brilliant people and don't neglect the interpersonal skills I need to be a great developer.
-- Curiousity and grit. These are more important than technical skills, but I have those too!
+- Swift learner with a proactive approach, seeking mentorship to grow and thrive as a valued team member.
+- Possessing curiosity, grit, and strong interpersonal skills alongside technical proficiency.
+- Embracing new challenges and always eager to explore and learn new technologies.
 
 ### Technologies
 
-- Proficient: git, Bash, C, Python, JavaScript, SQL, HTML
-- Current focus: Ruby, Rails, React, PostgreSQL, CSS
-- Curious: Kotlin
-- Familiar: Docker, Flask, NGINX, Puppet, Next.js, Rspec, Datadog
-- Not afraid of: Learning new languages or technologies
+- **Proficient**: git, Bash, C, Python, JavaScript, SQL, HTML, Ruby, Rails, React, PostgreSQL, CSS
+- **Current focus**: gRPC, Project Design
+- **Curious**: Kotlin
+- **Familiar**: Docker, Flask, NGINX, Puppet, Next.js, Rspec, Datadog, SumoLogic, FullStory, LaunchDarkly
+- **Not afraid of**: Learning new languages or technologies
 
 ## Experiences
 
 ### Upstart, Remote (Jan 2022-Current)
-Upstart is a machine learning driven fintech enabling effortless credit based on true risk. I belong to a backend engineering team working in Ruby on Rails and Python to assist ML in making instant credit decisions.
+Upstart is an innovative Fintech company utilizing machine learning to enable effortless credit decisions based on true risk. As a part of a talented backend engineering team, I contribute to building and leveraging Ruby on Rails and Python technologies to support instant credit decision-making through machine learning.
 
-Software Engineer III
+**Software Engineer 2**
 
-- Currently working on 3rd Party vendor integrations to increase instant approval and prevent fraud
-- Watch this space!
+- Designing improvements for the instant approval flow.
+- Collaborating on the effort to break up the monolith into gRPC APIs.
+- Assisting other products with seamless integration into our services.
 
-Software Engineer (Intern)
+**Software Engineer**
 
-- Maintain ownership of and built full-stack internal tooling to monitor and respond to fraud
-- Work with stakeholders to develop database schema, permissions, Redis caching, and user interface
-- Learned and implemented strategies for exposing data to ML via version logging
+- Implemented third-party vendor integration for instant approval and fraud prevention
+- Conducted experiments to optimize verifications, enhancing efficiency
+- Identified and resolved flaws in rule sets, improving system accuracy
+- Developed Python testing suite for microservice consistency
+
+**Software Engineer (Intern)**
+
+- Developed and maintained full-stack internal fraud monitoring tools, ensuring swift response and bolstering security
+- Collaborated with stakeholders on database schema, permissions, Redis caching, and UI enhancements
+- Implemented data exposure strategies for machine learning via version logging
 
 ### Techtonica, Remote (July 2021—Dec 2021)
 
