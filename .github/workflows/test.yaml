@@ -1,0 +1,29 @@
+name: convert
+
+on:
+  push:
+
+jobs:
+  converttopdf:
+    name: Build PDF
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Build resume
+        run: |-
+          npm install -g md-to-pdf
+          mkdir -p _pdf
+          echo; echo "Input files"
+          ls
+          echo; echo "Generating PDF"
+          for f in *.md; do cat $f; echo; done | md-to-pdf --stylesheet "theme/style.css" > _pdf/resume.pdf
+          cd _pdf/
+          echo; echo "Results"
+          ls
+          cd ..
+      
+      - uses: actions/upload-artifact@v1
+        with:
+          name: pdf
+          path: _pdf
