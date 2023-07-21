@@ -36,34 +36,34 @@ Upstart is an innovative Fintech company utilizing machine learning to enable ef
 **Software Engineer 2**
 
 - Designing improvements for the instant approval flow.
-- Collaborating on the effort to break up the monolith into gRPC APIs.
+- Collaborating on the effort to break up the monolith, define our domains, and build gRPC APIs.
 - Assisting other products with seamless integration into our services.
 
 **Software Engineer**
 
-- Implemented third-party vendor integration for instant approval and fraud prevention
-- Conducted experiments to optimize verifications, enhancing efficiency
-- Identified and resolved flaws in rule sets, improving system accuracy
-- Developed Python testing suite for microservice consistency
+- Implemented third-party vendor integration for instant approval and fraud prevention.
+- Conducted experiments to optimize verifications, enhancing efficiency.
+- Identified and resolved flaws in rule sets, improving system accuracy.
+- Developed Python testing suite for microservice consistency.
 
 **Software Engineer (Intern)**
 
-- Developed and maintained full-stack internal fraud monitoring tools, ensuring swift response and bolstering security
-- Collaborated with stakeholders on database schema, permissions, Redis caching, and UI enhancements
-- Implemented data exposure strategies for machine learning via version logging
+- Developed and maintained full-stack internal fraud monitoring tools, ensuring swift response and bolstering security.
+- Collaborated with stakeholders on database schema, permissions, Redis caching, and UI enhancements.
+- Implemented data exposure strategies for machine learning via version logging.
 
 ### Techtonica, Remote (July 2021—Dec 2021)
 
 Six-months full-time immersive full-stack development education. Capstone: Game Night, An app for board game enthusiasts who attend in-person gaming meetups.
 
-- Full-stack app built with PostgreSQL, Express, Node.js, and React, Auth0
-- Leverages external API to solve domain-specific problems in planning, hosting, and attending tabletop events
+- Full-stack app built with PostgreSQL, Express, Node.js, and React, Auth0.
+- Leverages external API to solve domain-specific problems in planning, hosting, and attending tabletop events.
 
 Other notable activities:
 
-- Reinforced foundational web application knowledge by building multiple full-stack apps
-- Led our 12-person cohort in agile meetings and pairing sessions
-- Presented code examples and tutorial solutions
+- Reinforced foundational web application knowledge by building multiple full-stack apps.
+- Led our 12-person cohort in agile meetings and pairing sessions.
+- Presented code examples and tutorial solutions.
 
 ### Holberton School, San Francisco (Jan 2020—2021)
 
@@ -71,6 +71,6 @@ Year-long intensive education in full-stack software engineering. My capstone pr
 
 Other notable activities:
 
-- Re-implemented the C standard library and built a terminal shell in C using those custom library functions to develop thorough fundamental knowledge of the language
-- Created a full stack Linux/Apache/MySQL/Python AirBnB clone
-- Configured and managed servers & primary/replica databases in AWS via SSH & the console, including SSL certs for NGINX, Puppet config, Datadog management, load balancing
+- Re-implemented the C standard library and built a terminal shell in C using those custom library functions to develop thorough fundamental knowledge of the language.
+- Created a full stack Linux/Apache/MySQL/Python AirBnB clone.
+- Configured and managed servers & primary/replica databases in AWS via SSH & the console, including SSL certs for NGINX, Puppet config, Datadog management, load balancing.
