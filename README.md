@@ -1,6 +1,4 @@
- [![](https://img.shields.io/badge/tabithaomelay-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tabithaomelay/)
-
-# Tabitha O'Melay
+# Tabitha Katz
 
 510-926-8161  
 <mailto:tabby_katz@icloud.com>  
@@ -16,16 +14,18 @@ Portland, OR
 
 ## What I Can Bring
 
-- Swift learner with a proactive approach, seeking mentorship to grow and thrive as a valued team member.
+- Owning and leading critical projects that put company and team first.
+- Demonstrating strong initiative, responsibility, and readiness for higher-level challenges.
 - Possessing curiosity, grit, and strong interpersonal skills alongside technical proficiency.
+- Cultivating positive attitude, energy, and the ability to bring out the best in my team.
 - Embracing new challenges and always eager to explore and learn new technologies.
 
 ### Technologies
 
-- **Proficient**: git, Bash, C, Python, JavaScript, SQL, HTML, Ruby, Rails, React, PostgreSQL, CSS
-- **Current focus**: gRPC, Project Design
+- **Proficient**: git, Bash, C, Python, JavaScript, SQL, HTML, Ruby, Rails, React, PostgreSQL, CS, gRPC, all relevant testing frameworks
+- **Current focus**: System Design
 - **Curious**: Kotlin
-- **Familiar**: Docker, Flask, NGINX, Puppet, Next.js, Rspec, Datadog, SumoLogic, FullStory, LaunchDarkly
+- **Familiar**: Docker, Flask, NGINX, Puppet, Next.js, Datadog, SumoLogic, FullStory, LaunchDarkly
 - **Not afraid of**: Learning new languages or technologies
 
 ## Experiences
@@ -35,11 +35,14 @@ Upstart is an innovative Fintech company utilizing machine learning to enable ef
 
 **Software Engineer 2**
 
-- Designing improvements for the instant approval flow.
-- Collaborating on the effort to break up the monolith, define our domains, and build gRPC APIs.
+- Platformizing Verifications for myriad products, navigating challenges and coordinating with cross-functional teams.
+- Contributing to critical security and compliance projects.
+- Designing improvements for credit decisioning, improving system reliability and confidence in rule updates for instant approval decisions.
+- Collaborating to break up a Rails monolith, define our domains, and build gRPC APIs.
 - Assisting other products with seamless integration into our services.
+- Identifying and resolving critical blockers and technical challenges with a direct impact on company metrics.
 
-**Software Engineer**
+**Software Engineer 1**
 
 - Implemented third-party vendor integration for instant approval and fraud prevention.
 - Conducted experiments to optimize verifications, enhancing efficiency.
